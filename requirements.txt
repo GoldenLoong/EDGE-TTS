@@ -1,0 +1,4 @@
+uvicorn
+edge_tts
+fastapi
+pygame
