@@ -1,2 +1,2 @@
-# EDGE-TTS-
+# EDGE-TTS
 
