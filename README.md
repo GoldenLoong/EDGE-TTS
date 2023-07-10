@@ -7,12 +7,14 @@
 准备工作：
 
 1.
-
+```
 git clone https://github.com/GoldenLoong/EDGE-TTS
+```
 
 2.
-
+```
 pip install -r requirements.txt
+```
 
 或者 双击“环境准备.bat”
 
